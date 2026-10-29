@@ -1,0 +1,9 @@
+streamlit>=1.36
+numpy
+pillow
+requests
+reportlab
+opencv-python-headless
+# Optional (heavy) - enable live RT-DETR and local Whisper:
+# ultralytics
+# openai-whisper
